@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @liwithcde
 - 👀 I’m interested in coding things interesting.
-- 🌱 I’m currently learning  algorithm, computational science,...
+- 🌱 I’m currently learning theory of computation, deep learn.
+- 🐟 I like Python and Pythonic.
 - 📫 How to reach me ... wouldyou7878@protonmail.com
 
 <!---
